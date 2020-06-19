@@ -1,3 +1,3 @@
 # MINI_PROJETS_JEDHA
-Repository des projets hebdos JEDHA
-Projets réalisés tout au long de la formation en Data Science, illustrant les méthodes et les outils abordés.
+Ces projets ont été réalisés sur une base hebdomadaire, tout au long de la formation en Data Science Fullstack dispensée par Jedha (mars à juin 2020).
+Ils illustrent les méthodes et les outils abordés au fil des semaines.
